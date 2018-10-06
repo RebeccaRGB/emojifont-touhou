@@ -1,0 +1,216 @@
+#!/usr/bin/env bash
+
+cp -f "$PWD/8Wo-collapsed-plain.svg" /tmp/8Wo.svg
+
+mkdir -p TouhouKatsujishotai.ttf.sbix.d/160
+
+./svg-objects-export.py --destdir "$PWD/TouhouKatsujishotai.ttf.sbix.d/160/" \
+                        --extra '--export-area-page --export-id-only' \
+                        --inkscape /Applications/Inkscape.app/Contents/Resources/bin/inkscape \
+                        /tmp/8Wo.svg
+
+rm -f /tmp/8Wo.svg
+
+cd TouhouKatsujishotai.ttf.sbix.d/160
+
+cp 8Wo_reimu.png char_F000.png
+cp 8Wo_marisa.png char_F001.png
+cp 8Wo_cirno.png char_F022.png
+cp 8Wo_alice.png char_F01B.png
+cp 8Wo_youmu.png char_F02F.png
+cp 8Wo_suika.png char_F040.png
+cp 8Wo_sanae.png char_F051.png
+cp 8Wo_patchouli.png char_F025.png
+cp 8Wo_meiling.png char_F023.png
+cp 8Wo_remilia.png char_F027.png
+cp 8Wo_flandre.png char_F028.png
+cp 8Wo_chen.png char_F02A.png
+cp 8Wo_letty.png char_F029.png
+cp 8Wo_lily.png char_F02B.png
+cp 8Wo_lyrica.png char_F02C.png
+cp 8Wo_lunasa.png char_F02E.png
+cp 8Wo_merlin.png char_F02D.png
+cp 8Wo_ran.png char_F031.png
+cp 8Wo_rumia.png char_F020.png
+cp 8Wo_wriggle.png char_F037.png
+cp 8Wo_koakuma.png char_F024.png
+cp 8Wo_mystia.png char_F038.png
+cp 8Wo_keine.png char_F039.png
+cp 8Wo_tewi.png char_F03B.png
+cp 8Wo_eirin.png char_F03D.png
+cp 8Wo_kaguya.png char_F03E.png
+cp 8Wo_keine2.png char_F03A.png
+cp 8Wo_mokou.png char_F03F.png
+cp 8Wo_daiyosei.png char_F021.png
+cp 8Wo_aya.png char_F045.png
+cp 8Wo_sakuya.png char_F026.png
+cp 8Wo_komachi.png char_F046.png
+cp 8Wo_yukari.png char_F032.png
+cp 8Wo_eiki.png char_F047.png
+cp 8Wo_reisen.png char_F03C.png
+cp 8Wo_medicine.png char_F044.png
+cp 8Wo_kanako.png char_F052.png
+cp 8Wo_yuyuko.png char_F030.png
+cp 8Wo_momiji.png char_F050.png
+cp 8Wo_tenshi.png char_F055.png
+cp 8Wo_iku.png char_F054.png
+cp 8Wo_nitori.png char_F04F.png
+cp 8Wo_shizuha.png char_F04C.png
+cp 8Wo_hina.png char_F04E.png
+cp 8Wo_hatate.png char_F065.png
+cp 8Wo_star.png char_F043.png
+cp 8Wo_luna.png char_F042.png
+cp 8Wo_sunny.png char_F041.png
+cp 8Wo_kisume.png char_F056.png
+cp 8Wo_yamame.png char_F057.png
+cp 8Wo_parsee.png char_F058.png
+cp 8Wo_yuugi.png char_F059.png
+cp 8Wo_satori.png char_F05A.png
+cp 8Wo_utsuho.png char_F05C.png
+cp 8Wo_koishi.png char_F05D.png
+cp 8Wo_minoriko.png char_F04D.png
+cp 8Wo_suwako.png char_F053.png
+cp 8Wo_nazrin.png char_F05E.png
+cp 8Wo_orin.png char_F05B.png
+cp 8Wo_ichirin.png char_F060.png
+cp 8Wo_minamitsu.png char_F061.png
+cp 8Wo_shou.png char_F062.png
+cp 8Wo_byakuren.png char_F063.png
+cp 8Wo_kogasa.png char_F05F.png
+cp 8Wo_nue.png char_F064.png
+cp 8Wo_kyouko.png char_F067.png
+cp 8Wo_yoshika.png char_F068.png
+cp 8Wo_seiga.png char_F069.png
+cp 8Wo_futo.png char_F06B.png
+cp 8Wo_tojiko.png char_F06A.png
+cp 8Wo_miko.png char_F06C.png
+cp 8Wo_mamizou.png char_F06D.png
+cp 8Wo_wakasagihime.png char_F070.png
+cp 8Wo_sekibanki.png char_F071.png
+cp 8Wo_kagerou.png char_F072.png
+cp 8Wo_benben.png char_F073.png
+cp 8Wo_yatsuhashi.png char_F074.png
+cp 8Wo_seija.png char_F075.png
+cp 8Wo_shinmyoumaru.png char_F076.png
+cp 8Wo_raiko.png char_F077.png
+cp 8Wo_yuuka.png char_F016.png
+cp 8Wo_kokoro.png char_F06F.png
+cp 8Wo_sumireko.png char_F078.png
+cp 8Wo_seiran.png char_F079.png
+cp 8Wo_ringo.png char_F07A.png
+cp 8Wo_doremy.png char_F07B.png
+cp 8Wo_sagume.png char_F07C.png
+cp 8Wo_hecatia.png char_F07F.png
+cp 8Wo_clownpiece.png char_F07D.png
+cp 8Wo_junko.png char_F07E.png
+cp 8Wo_joon.png char_F088.png
+cp 8Wo_shion.png char_F089.png
+cp 8Wo_eternity.png char_F081.png
+cp 8Wo_nemuno.png char_F082.png
+cp 8Wo_aunn.png char_F083.png
+cp 8Wo_narumi.png char_F084.png
+cp 8Wo_mai.png char_F085.png
+cp 8Wo_okina.png char_F087.png
+cp 8Wo_satono.png char_F086.png
+cp 8Wo_cirnotan.png char_F080.png
+
+mv 8Wo_reimu.png \!r.png
+mv 8Wo_marisa.png \!m.png
+mv 8Wo_cirno.png nine.png
+mv 8Wo_alice.png \!a.png
+mv 8Wo_youmu.png \!o.png
+mv 8Wo_suika.png \!i.png
+mv 8Wo_sanae.png ^S.png
+mv 8Wo_patchouli.png \!p.png
+mv 8Wo_meiling.png \!h.png
+mv 8Wo_remilia.png \!d.png
+mv 8Wo_flandre.png \!f.png
+mv 8Wo_chen.png \!c.png
+mv 8Wo_letty.png \!l.png
+mv 8Wo_lily.png zero.png
+mv 8Wo_lyrica.png bracketleft.png
+mv 8Wo_lunasa.png bracketright.png
+mv 8Wo_merlin.png backslash.png
+mv 8Wo_ran.png \!x.png
+mv 8Wo_rumia.png seven.png
+mv 8Wo_wriggle.png five.png
+mv 8Wo_koakuma.png \!k.png
+mv 8Wo_mystia.png six.png
+mv 8Wo_keine.png \!q.png
+mv 8Wo_tewi.png \!t.png
+mv 8Wo_eirin.png \!e.png
+mv 8Wo_kaguya.png \!g.png
+mv 8Wo_keine2.png \!w.png
+mv 8Wo_mokou.png \!j.png
+mv 8Wo_daiyosei.png eight.png
+mv 8Wo_aya.png ^A.png
+mv 8Wo_sakuya.png \!s.png
+mv 8Wo_komachi.png ^K.png
+mv 8Wo_yukari.png \!z.png
+mv 8Wo_eiki.png ^E.png
+mv 8Wo_reisen.png \!u.png
+mv 8Wo_medicine.png ^M.png
+mv 8Wo_kanako.png ^Q.png
+mv 8Wo_yuyuko.png \!y.png
+mv 8Wo_momiji.png ^J.png
+mv 8Wo_tenshi.png \!b.png
+mv 8Wo_iku.png \!n.png
+mv 8Wo_nitori.png ^N.png
+mv 8Wo_shizuha.png ^Z.png
+mv 8Wo_hina.png ^H.png
+mv 8Wo_hatate.png \!v.png
+mv 8Wo_star.png three.png
+mv 8Wo_luna.png two.png
+mv 8Wo_sunny.png one.png
+mv 8Wo_kisume.png ^I.png
+mv 8Wo_yamame.png ^V.png
+mv 8Wo_parsee.png ^P.png
+mv 8Wo_yuugi.png ^G.png
+mv 8Wo_satori.png less.png
+mv 8Wo_utsuho.png ^U.png
+mv 8Wo_koishi.png greater.png
+mv 8Wo_minoriko.png ^X.png
+mv 8Wo_suwako.png ^W.png
+mv 8Wo_nazrin.png ^C.png
+mv 8Wo_orin.png ^R.png
+mv 8Wo_ichirin.png ^F.png
+mv 8Wo_minamitsu.png ^D.png
+mv 8Wo_shou.png ^O.png
+mv 8Wo_byakuren.png ^B.png
+mv 8Wo_kogasa.png ^T.png
+mv 8Wo_nue.png ^L.png
+mv 8Wo_kyouko.png exclam.png
+mv 8Wo_yoshika.png at.png
+mv 8Wo_seiga.png numbersign.png
+mv 8Wo_futo.png percent.png
+mv 8Wo_tojiko.png dollar.png
+mv 8Wo_miko.png asciicircum.png
+mv 8Wo_mamizou.png ampersand.png
+mv 8Wo_wakasagihime.png asciitilde.png
+mv 8Wo_sekibanki.png grave.png
+mv 8Wo_kagerou.png slash.png
+mv 8Wo_benben.png braceleft.png
+mv 8Wo_yatsuhashi.png braceright.png
+mv 8Wo_seija.png comma.png
+mv 8Wo_shinmyoumaru.png period.png
+mv 8Wo_raiko.png bar.png
+mv 8Wo_yuuka.png ^Y.png
+mv 8Wo_kokoro.png asterisk.png
+mv 8Wo_sumireko.png question.png
+mv 8Wo_seiran.png quotesingle.png
+mv 8Wo_ringo.png quotedbl.png
+mv 8Wo_doremy.png semicolon.png
+mv 8Wo_sagume.png colon.png
+mv 8Wo_hecatia.png underscore.png
+mv 8Wo_clownpiece.png four.png
+mv 8Wo_junko.png char_002D.png
+rm 8Wo_joon.png
+rm 8Wo_shion.png
+mv 8Wo_eternity.png parenright.png
+mv 8Wo_nemuno.png equal.png
+mv 8Wo_aunn.png plus.png
+rm 8Wo_narumi.png
+rm 8Wo_mai.png
+rm 8Wo_okina.png
+rm 8Wo_satono.png
+mv 8Wo_cirnotan.png parenleft.png

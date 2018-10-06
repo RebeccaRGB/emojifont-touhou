@@ -1,0 +1,138 @@
+F000	Reimu Hakurei
+F001	Marisa Kirisame
+F002	Shingyoku (F)
+F003	Shingyoku (M)
+F004	YuugenMagan
+F005	Elis
+F006	Sariel
+F007	Mima
+F008	Kikuri
+F009	Konngara
+F00A	Rika
+F00B	Meira
+F00C	Ellen
+F00D	Kotohime
+F00E	Kana Anaberal
+F00F	Rikako Asakura
+F010	Chiyuri Kitashirakawa
+F011	Yumemi Okazaki
+F012	Ruukoto
+F013	Orange
+F014	Kurumi
+F015	Elly
+F016	Yuuka Kazami
+F017	Mugetsu
+F018	Gengetsu
+F019	Sara
+F01A	Louise
+F01B	Alice Margatroid
+F01C	Yuki
+F01D	Mai
+F01E	Yumeko
+F01F	Shinki
+F020	Rumia
+F021	Daiyousei
+F022	Cirno
+F023	Hong Meiling
+F024	Koakuma
+F025	Patchouli Knowledge
+F026	Sakuya Izayoi
+F027	Remilia Scarlet
+F028	Flandre Scarlet
+F029	Letty Whiterock
+F02A	Chen
+F02B	Lily White
+F02C	Lyrica Prismriver
+F02D	Merlin Prismriver
+F02E	Lunasa Prismriver
+F02F	Youmu Konpaku
+F030	Yuyuko Saigyouji
+F031	Ran Yakumo
+F032	Yukari Yakumo
+F033	Renko Usami
+F034	Maribel Hearn
+F035	Rinnosuke Morichika
+F036	Tokiko
+F037	Wriggle Nightbug
+F038	Mystia Lorelei
+F039	Keine Kamishirasawa
+F03A	Keine Kamishirasawa EX
+F03B	Tewi Inaba
+F03C	Reisen Udongein Inaba
+F03D	Eirin Yagokoro
+F03E	Kaguya Houraisan
+F03F	Fujiwara no Mokou
+F040	Suika Ibuki
+F041	Sunny Milk
+F042	Luna Child
+F043	Star Sapphire
+F044	Medicine Melancholy
+F045	Aya Shameimaru
+F046	Komachi Onozuka
+F047	Eiki Shiki
+F048	Hieda no Akyuu
+F049	Watatsuki no Yorihime
+F04A	Watatsuki no Toyohime
+F04B	Reisen
+F04C	Shizuha Aki
+F04D	Minoriko Aki
+F04E	Hina Kagiyama
+F04F	Nitori Kawashiro
+F050	Momiji Inubashiri
+F051	Sanae Kochiya
+F052	Kanako Yasaka
+F053	Suwako Moriya
+F054	Iku Nagae
+F055	Tenshi Hinanawi
+F056	Kisume
+F057	Yamame Kurodani
+F058	Parsee Mizuhashi
+F059	Yuugi Hoshiguma
+F05A	Satori Komeiji
+F05B	Rin Kaenbyou
+F05C	Utsuho Reiuji
+F05D	Koishi Komeiji
+F05E	Nazrin
+F05F	Kogasa Tatara
+F060	Ichirin Kumoi
+F061	Minamitsu Murasa
+F062	Shou Toramaru
+F063	Byakuren Hijiri
+F064	Nue Houjuu
+F065	Hatate Himekaidou
+F066	Kasen Ibaraki
+F067	Kyouko Kasodani
+F068	Yoshika Miyako
+F069	Seiga Kaku
+F06A	Soga no Tojiko
+F06B	Mononobe no Futo
+F06C	Toyosatomimi no Miko
+F06D	Mamizou Futatsuiwa
+F06E	Kosuzu Motoori
+F06F	Hata no Kokoro
+F070	Wakasagihime
+F071	Sekibanki
+F072	Kagerou Imaizumi
+F073	Benben Tsukumo
+F074	Yatsuhashi Tsukumo
+F075	Seija Kijin
+F076	Shinmyoumaru Sukuna
+F077	Raiko Horikawa
+F078	Sumireko Usami
+F079	Seiran
+F07A	Ringo
+F07B	Doremy Sweet
+F07C	Sagume Kishin
+F07D	Clownpiece
+F07E	Junko
+F07F	Hecatia Lapislazuli
+F080	Cirno (Tan)
+F081	Eternity Larva
+F082	Nemuno Sakata
+F083	Aunn Komano
+F084	Narumi Yatadera
+F085	Mai Teireida
+F086	Satono Nishida
+F087	Okina Matara
+F088	Joon Yorigami
+F089	Shion Yorigami
